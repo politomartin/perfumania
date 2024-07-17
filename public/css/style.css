@@ -29,6 +29,7 @@ body {
     padding: 10px;
   }
 
-  .logo-header {
-    width: 5px;
+  header img {
+    width: 70%;
   }
+  
